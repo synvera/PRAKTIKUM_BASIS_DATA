@@ -1,7 +1,7 @@
 # PRAKTIKUM_BASIS_DATA
 
-Repositori ini berisi dokumentasi, rangkuman materi, dan hasil pengerjaan tugas untuk **Praktikum Basis Data** dari **Pertemuan 1 sampai Pertemuan 3**.  
-Materi yang dibahas mencakup dasar perancangan database, pemahaman ERD, pembuatan skema relasi, penggunaan MySQL, hingga implementasi Data Definition Language (DDL).  
+Repositori ini berisi dokumentasi, rangkuman materi, dan hasil pengerjaan tugas untuk **Praktikum Basis Data** dari **Pertemuan 1 sampai Pertemuan 4**.  
+Materi yang dibahas mencakup dasar perancangan database, pemahaman ERD, pembuatan skema relasi, penggunaan MySQL, implementasi Data Definition Language (DDL) hingga ALTER, MODIFY , DROP , RENAME (DDL).  
 
 Dokumentasi ini dibuat untuk membantu:
 - Memahami ulang rangkuman materi tiap pertemuan  
