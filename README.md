@@ -19,7 +19,7 @@ Berikut adalah rangkuman materi inti dari setiap pertemuan praktikum.
 | **1** | **Pertemuan 1** | Bab 1 – *Review Konversi Entity Relationship (ER) Diagram ke Skema Relasi*. Membahas entitas, atribut, PK, FK, cardinality, serta konversi ke tabel fisik. | https://colab.research.google.com/drive/1whncp7ckyV3AoiPC6izubUIZrpPMISkL?usp=sharing |
 | **2** | **Pertemuan 2** | Bab 2 – *Pengantar Basis Data & DDL*. Mempelajari konsep Database, DBMS, MySQL, perintah dasar DDL, dan tipe data. | https://colab.research.google.com/drive/1Asn78WSH8QZpB9duW1Yuu8UVBkFnS7-q?usp=sharing |
 | **3** | **Pertemuan 3** | Bab 3 – *Data Definition Language (DDL)*. Membahas pembuatan tabel, constraint, auto increment, default value, dan engine InnoDB. | https://colab.research.google.com/drive/18c5pyZ0ed_k2vC_TTsgZxYuY9fvYM90Z?usp=sharing |
-| **4** | **Pertemuan 4** | Bab 4 – *ALTER, MODIFY , DROP , RENAME (DDL)* | https://colab.research.google.com/drive/1hDivsqrU2HbCqx3_nT0mxewgUrElIAY3?usp=sharing |
+| **4** | **Pertemuan 4** | Bab 4 – *ALTER, MODIFY , DROP , RENAME (DDL)* | https://colab.research.google.com/drive/1SO-GxYI3_x7dr7imBs5OHsz3alLt2Uik?usp=sharing |
 
 ---
 
